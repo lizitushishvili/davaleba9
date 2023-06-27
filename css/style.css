@@ -1,0 +1,84 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header img{
+    margin-top: 24px;
+   margin-left: 99px;
+}
+header div{
+    width: 600px;
+    margin-top: 33px;
+}
+div h1{
+    margin-right: 50px;
+    display: inline-block;
+    color: #636060;
+    font-size: 17px;
+}
+.section1 img{
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-top: 18px;
+}
+.section1 h1{
+    position:absolute;
+    top: 322px;
+    right: 407px;
+    color: #FFF;
+    font-size: 79px;
+    font-weight: 700;
+}
+.section1 h2{
+    position: absolute;
+    color: #FFF;
+    font-size: 19px;
+    top: 444px;
+    right: 554px;
+}
+.section2{
+    margin-top: 84px;
+    margin-left: 100px;
+    margin-bottom: 140px;
+}
+.textplace{
+    width: 215px;
+    display: inline-block;
+}
+.h2{
+    color: #636060;
+    font-size: 17px;
+}
+.h21{
+    margin-top: 9px;
+    color: #010101;
+    font-size: 28px;
+}
+.h22{
+    margin-top: 37px;
+    color: #636060;
+    font-size: 20px;
+}
+.flex-container{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 84px;
+}
+.offerbox{
+    width: 286px;
+    margin-right: 33px;
+    margin-top: 33px;
+}
+h3{
+    margin-top: 23px;
+    color: #343232;
+    font-size: 19px;
+}
+h4{
+    margin-top: 9px;
+    color: #636060;
+    font-size: 18px;
+}
